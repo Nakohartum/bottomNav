@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Common calculator"
+        android:id="@+id/calculator"
+        android:icon="@drawable/gnome_calculator_icon_2021_svg"
+        />
+    <item
+        android:title="Triangle square"
+        android:id="@+id/squareCalculator"
+        android:icon="@drawable/_069_png_860"
+        />
+    <item
+        android:title="Deposit calculator"
+        android:id="@+id/depositCalculator"
+        android:icon="@drawable/_266216"
+        />
+
+</menu>
